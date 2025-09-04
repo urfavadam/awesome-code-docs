@@ -26,6 +26,15 @@ Most documentation tells you **what** to do. The docs here teach you **how** and
 *Prerequisites:* Basic Python knowledge  
 *Format:* 10-chapter tutorial with diagrams and hands-on examples
 
+### 🗄️ Databases & No-Code Platforms
+
+**[NocoDB Database Platform Deep Dive](tutorials/nocodb-database-platform/)** - *6-8 hours*
+> Understanding NocoDB's architecture - how to build an Airtable-like interface for any database with Node.js and Vue.js
+
+*What you'll learn:* Database abstraction, API auto-generation, Vue.js data components, real-time collaboration  
+*Prerequisites:* JavaScript, basic database knowledge  
+*Format:* Architecture deep-dive with working code examples
+
 ---
 
 ## More Coming Soon

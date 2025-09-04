@@ -11,6 +11,7 @@ In-depth tutorials that teach how complex systems work through hands-on examples
 - *Coming Soon* - React Fiber internals, Vue reactivity system
 
 ### 🗄️ Databases
+- **[NocoDB Database Platform Deep Dive](nocodb-database-platform/)** - Building Airtable-like interfaces for databases
 - *Coming Soon* - PostgreSQL query planner, Redis architecture  
 
 ### ⚙️ Systems Programming
