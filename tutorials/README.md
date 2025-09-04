@@ -10,7 +10,8 @@ In-depth tutorials that teach how complex systems work through hands-on examples
 ### 🌐 Web Frameworks  
 - *Coming Soon* - React Fiber internals, Vue reactivity system
 
-### 🗄️ Databases
+### 🗄️ Databases & Knowledge Management
+- **[Logseq Knowledge Management Platform Deep Dive](logseq-knowledge-management/)** - Master privacy-first, local-first knowledge management with ClojureScript
 - *Coming Soon* - PostgreSQL query planner, Redis architecture  
 
 ### ⚙️ Systems Programming

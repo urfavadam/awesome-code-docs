@@ -26,6 +26,15 @@ Most documentation tells you **what** to do. The docs here teach you **how** and
 *Prerequisites:* Basic Python knowledge  
 *Format:* 10-chapter tutorial with diagrams and hands-on examples
 
+### 🧠 Knowledge Management & Personal Productivity
+
+**[Logseq Knowledge Management Platform Deep Dive](tutorials/logseq-knowledge-management/)** - *18-22 hours*
+> Master the architecture of Logseq's privacy-first, local-first knowledge management system - building block-based note-taking applications with ClojureScript and Electron
+
+*What you'll learn:* Block-based knowledge architecture, local-first data synchronization, ClojureScript desktop applications, graph database visualization, plugin architecture  
+*Prerequisites:* ClojureScript, Electron development, Git internals, graph theory basics  
+*Format:* 20-chapter expert-level tutorial with complete ClojureScript implementation
+
 ---
 
 ## More Coming Soon

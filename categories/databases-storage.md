@@ -2,6 +2,19 @@
 
 > Documentation that explains how data systems store, query, and scale information
 
+## Featured Documentation
+
+### [Logseq Knowledge Management Platform Deep Dive](../tutorials/logseq-knowledge-management/)
+**🏗️ Architecture | 🔥 Expert | ⏱️ 18-22 hours**
+
+Master Logseq's privacy-first, local-first knowledge management system with ClojureScript and Electron.
+
+- **What You'll Learn**: Block-based knowledge architecture, local-first data synchronization, ClojureScript desktop applications, graph database visualization, plugin architecture
+- **Prerequisites**: ClojureScript, Electron development, Git internals, graph theory basics
+- **Standout Feature**: Complete ClojureScript implementation with desktop deployment, real-time collaboration, and advanced graph algorithms
+
+---
+
 ## What We're Looking For
 
 Documentation that teaches:
