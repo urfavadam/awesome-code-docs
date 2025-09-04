@@ -26,30 +26,39 @@ Most documentation tells you **what** to do. The docs here teach you **how** and
 *Prerequisites:* Basic Python knowledge  
 *Format:* 10-chapter tutorial with diagrams and hands-on examples
 
-### 🗄️ Databases & No-Code Platforms
+### 🤖 LLM Workflow Orchestration
 
-**[NocoDB Database Platform Deep Dive](tutorials/nocodb-database-platform/)** - *6-8 hours*
-> Understanding NocoDB's architecture - how to build an Airtable-like interface for any database with Node.js and Vue.js
+**[Flowise LLM Orchestration Platform Deep Dive](tutorials/flowise-llm-orchestration/)** - *10-12 hours*
+> Master Flowise's visual LLM workflow orchestration - building no-code AI applications with Node.js, React, and advanced prompt engineering
 
-*What you'll learn:* Database abstraction, API auto-generation, Vue.js data components, real-time collaboration  
-*Prerequisites:* JavaScript, basic database knowledge  
-*Format:* Architecture deep-dive with working code examples
+*What you'll learn:* Visual workflow design, LLM integration patterns, advanced prompt engineering, Node.js backend architecture, real-time execution engine  
+*Prerequisites:* Node.js, React, API integration, LLM concepts  
+*Format:* Comprehensive tutorial with workflow examples and production deployment
 
-**[Teable Database Platform Deep Dive](tutorials/teable-database-platform/)** - *12-15 hours*
-> Complete architectural guide to Teable's multi-dimensional database platform - building high-performance, scalable data applications with real-time collaboration
+### 💬 AI Chat Platforms
 
-*What you'll learn:* Multi-dimensional data modeling, real-time collaboration engine, advanced query systems, API design patterns, React dynamic UI generation  
-*Prerequisites:* TypeScript, React/Next.js, PostgreSQL, API design patterns  
-*Format:* 20-chapter comprehensive tutorial with production-ready code examples
+**[LobeChat AI Platform Deep Dive](tutorials/lobechat-ai-platform/)** - *8-10 hours*
+> Master LobeChat's modern AI chat platform architecture - building scalable conversational AI with Next.js, streaming responses, and advanced UI patterns
 
-### 🧠 Knowledge Management & Graph Databases
+*What you'll learn:* Modern AI chat architecture, streaming response handling, Next.js advanced patterns, multi-model integration, advanced UI/UX patterns  
+*Prerequisites:* Next.js, TypeScript, AI APIs, real-time systems  
+*Format:* Production-ready implementation with streaming interfaces
 
-**[Athens Research Knowledge Graph Deep Dive](tutorials/athens-research-knowledge-graph/)** - *8-10 hours*
-> Understanding Athens Research's architecture - how to build a Roam-like knowledge management system with ClojureScript and graph databases
+### 🔧 Developer Tools & Analysis
 
-*What you'll learn:* Graph database patterns, ClojureScript architecture, block-based editing, bi-directional linking, real-time collaboration  
-*Prerequisites:* JavaScript, ClojureScript basics, graph database concepts  
-*Format:* Architecture deep-dive with Datascript examples and Re-frame patterns
+**[Obsidian Outliner Plugin Architecture Deep Dive](tutorials/obsidian-outliner-plugin/)** - *6-8 hours*
+> Master Obsidian plugin development through the Outliner plugin - advanced text editing, tree manipulation, and plugin architecture patterns
+
+*What you'll learn:* Obsidian plugin architecture, advanced text editing, tree data structures, TypeScript plugin development  
+*Prerequisites:* TypeScript, Obsidian usage, plugin development basics  
+*Format:* Plugin development tutorial with advanced editing patterns
+
+**[Codex Code Analysis Platform Deep Dive](tutorials/codex-analysis-platform/)** - *12-15 hours*
+> Master building sophisticated code analysis platforms - static analysis, AST manipulation, and developer tooling with modern web technologies
+
+*What you'll learn:* Static code analysis, AST processing, Language Server Protocol, code intelligence, visualization systems  
+*Prerequisites:* Compiler theory, TypeScript, language processing, web technologies  
+*Format:* Comprehensive analysis platform with multi-language support
 
 ---
 

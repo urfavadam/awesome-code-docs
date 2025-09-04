@@ -6,6 +6,12 @@ In-depth tutorials that teach how complex systems work through hands-on examples
 
 ### 🤖 AI & ML Platforms
 - **[Dify Platform Deep Dive](dify-platform-deep-dive/)** - Complete guide to building LLM applications
+- **[Flowise LLM Orchestration Platform Deep Dive](flowise-llm-orchestration/)** - Visual LLM workflow orchestration with Node.js
+- **[LobeChat AI Platform Deep Dive](lobechat-ai-platform/)** - Modern AI chat platform with Next.js and streaming
+
+### 🔧 Developer Tools & Analysis
+- **[Obsidian Outliner Plugin Architecture Deep Dive](obsidian-outliner-plugin/)** - Advanced plugin development and text editing
+- **[Codex Code Analysis Platform Deep Dive](codex-analysis-platform/)** - Static analysis and AST manipulation
 
 ### 🌐 Web Frameworks  
 - *Coming Soon* - React Fiber internals, Vue reactivity system
