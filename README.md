@@ -35,6 +35,13 @@ Most documentation tells you **what** to do. The docs here teach you **how** and
 *Prerequisites:* JavaScript, basic database knowledge  
 *Format:* Architecture deep-dive with working code examples
 
+**[Teable Database Platform Deep Dive](tutorials/teable-database-platform/)** - *12-15 hours*
+> Complete architectural guide to Teable's multi-dimensional database platform - building high-performance, scalable data applications with real-time collaboration
+
+*What you'll learn:* Multi-dimensional data modeling, real-time collaboration engine, advanced query systems, API design patterns, React dynamic UI generation  
+*Prerequisites:* TypeScript, React/Next.js, PostgreSQL, API design patterns  
+*Format:* 20-chapter comprehensive tutorial with production-ready code examples
+
 ### 🧠 Knowledge Management & Graph Databases
 
 **[Athens Research Knowledge Graph Deep Dive](tutorials/athens-research-knowledge-graph/)** - *8-10 hours*
