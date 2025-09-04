@@ -26,6 +26,15 @@ Most documentation tells you **what** to do. The docs here teach you **how** and
 *Prerequisites:* Basic Python knowledge  
 *Format:* 10-chapter tutorial with diagrams and hands-on examples
 
+### 🗄️ Multi-Dimensional Database Platforms
+
+**[Teable Database Platform Deep Dive](tutorials/teable-database-platform/)** - *12-15 hours*
+> Complete architectural guide to Teable's multi-dimensional database platform - building high-performance, scalable data applications with real-time collaboration
+
+*What you'll learn:* Multi-dimensional data modeling, real-time collaboration engine, advanced query systems, API design patterns, React dynamic UI generation  
+*Prerequisites:* TypeScript, React/Next.js, PostgreSQL, API design patterns  
+*Format:* 20-chapter comprehensive tutorial with production-ready code examples
+
 ---
 
 ## More Coming Soon

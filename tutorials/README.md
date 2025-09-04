@@ -10,7 +10,8 @@ In-depth tutorials that teach how complex systems work through hands-on examples
 ### 🌐 Web Frameworks  
 - *Coming Soon* - React Fiber internals, Vue reactivity system
 
-### 🗄️ Databases
+### 🗄️ Databases & Knowledge Management
+- **[Teable Database Platform Deep Dive](teable-database-platform/)** - Complete multi-dimensional database platform with real-time collaboration
 - *Coming Soon* - PostgreSQL query planner, Redis architecture  
 
 ### ⚙️ Systems Programming
