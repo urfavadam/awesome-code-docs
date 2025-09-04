@@ -28,25 +28,20 @@ By the end of this tutorial, you'll be able to:
 
 ## 📚 Tutorial Outline
 
-### Part 1: Foundation & Architecture
-1. **[System Overview](docs/01-overview.md)** - Dify's place in the LLM ecosystem
-2. **[Core Architecture](docs/02-architecture.md)** - Components and data flow  
-3. **[Setup & Environment](docs/setup.md)** - Development environment setup
+### Getting Started
+1. **[Setup & Environment](docs/setup.md)** - Development environment setup
+2. **[Simple Workflow Example](docs/examples/simple-workflow.py)** - Basic Dify workflow implementation
 
-### Part 2: Core Components Deep-Dive
-4. **[Workflow Engine](docs/04-workflow-engine.md)** - Node system and orchestration
-5. **[RAG Implementation](docs/05-rag-system.md)** - Document processing and retrieval
-6. **[Agent Framework](docs/06-agent-system.md)** - Tool calling and reasoning loops
+### Tutorial Content (Coming Soon)
+This tutorial is currently being developed. The following sections will be added:
 
-### Part 3: Hands-On Implementation  
-7. **[Building Custom Nodes](docs/07-custom-nodes.md)** - Extending workflow capabilities
-8. **[RAG Pipeline Setup](docs/08-rag-pipeline.md)** - Document ingestion and search
-9. **[Agent Tool Integration](docs/09-agent-tools.md)** - Connecting external APIs
-
-### Part 4: Production & Advanced Topics
-10. **[Deployment Patterns](docs/10-deployment.md)** - Docker, scaling, and monitoring
-11. **[Performance Optimization](docs/11-performance.md)** - Caching, batching, and efficiency
-12. **[Extension Development](docs/12-extensions.md)** - Plugin architecture and customization
+- **System Overview** - Dify's place in the LLM ecosystem
+- **Core Architecture** - Components and data flow
+- **Workflow Engine** - Node system and orchestration
+- **RAG Implementation** - Document processing and retrieval  
+- **Agent Framework** - Tool calling and reasoning loops
+- **Custom Nodes** - Extending workflow capabilities
+- **Production Deployment** - Docker, scaling, and monitoring
 
 ## 🔧 Setup Instructions
 
@@ -81,27 +76,20 @@ Throughout this tutorial, you'll create:
 
 ## 📊 Tutorial Resources
 
-### 🎨 Visual Learning
-- **[Architecture Diagrams](diagrams/)** - System component relationships
-- **[Flow Charts](diagrams/workflows/)** - Request processing and data flow
-- **[Sequence Diagrams](diagrams/interactions/)** - Component interaction patterns
+### 💻 Available Now
+- **[Setup Guide](docs/setup.md)** - Complete development environment setup
+- **[Working Example](docs/examples/simple-workflow.py)** - Runnable Dify workflow implementation
 
-### 💻 Code Examples
-- **[Working Examples](docs/examples/)** - Complete, runnable code samples
-- **[Code Analysis](code-analysis/)** - Line-by-line breakdowns of key files
-- **[Production Configs](resources/deployment/)** - Real deployment configurations
-
-### 🧪 Hands-On Practice
-- **[Exercises](exercises/)** - Step-by-step implementation challenges
-- **[Lab Environment](exercises/lab-setup/)** - Sandbox for experimentation
-- **[Solutions](exercises/solutions/)** - Reference implementations
+### 🚧 Coming Soon
+- **Visual Diagrams** - Architecture and data flow illustrations
+- **Step-by-step Exercises** - Hands-on implementation challenges  
+- **Production Examples** - Real deployment configurations
 
 ## 🚀 Quick Navigation
 
-**New to Dify?** Start with [System Overview](docs/01-overview.md)
-**Want to Code?** Jump to [Setup Guide](docs/setup.md)  
-**Exploring Architecture?** Check [Core Components](docs/02-architecture.md)
-**Building Something?** Try the [Exercises](exercises/)
+**New to Dify?** Start with the [Setup Guide](docs/setup.md)
+**Want to Code?** Check out [Simple Workflow Example](docs/examples/simple-workflow.py)  
+**Ready to Build?** Follow the setup instructions below
 
 ## 📈 Next Steps
 
@@ -120,6 +108,6 @@ After completing this tutorial:
 
 ---
 
-**🎉 Ready to dive deep into Dify? Let's start with the [System Overview](docs/01-overview.md)!**
+**🎉 Ready to dive deep into Dify? Let's start with the [Setup Guide](docs/setup.md)!**
 
 *Part of the [Awesome Code Docs](../../README.md) collection - transforming complex codebases into learning experiences*
