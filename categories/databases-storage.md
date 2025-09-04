@@ -4,7 +4,6 @@
 
 ## Featured Documentation
 
-<<<<<<< HEAD
 ### [NocoDB Database Platform Deep Dive](../tutorials/nocodb-database-platform/)
 **🏗️ Architecture | 🔥 Intermediate | ⏱️ 6-8 hours**
 
@@ -22,7 +21,7 @@ Complete guide to building knowledge management systems with graph databases, Cl
 - **What You'll Learn**: Graph database patterns, ClojureScript architecture, bi-directional linking, block-based editing, real-time collaboration
 - **Prerequisites**: JavaScript, ClojureScript basics, graph database concepts
 - **Standout Feature**: Working examples of Datascript queries and knowledge graph traversal algorithms
-=======
+
 ### [Teable Database Platform Deep Dive](../tutorials/teable-database-platform/)
 **🏗️ Architecture | 🚀 Advanced | ⏱️ 12-15 hours**
 
@@ -31,7 +30,6 @@ Comprehensive guide to building multi-dimensional database platforms with TypeSc
 - **What You'll Learn**: Multi-dimensional data modeling, real-time collaboration systems, advanced query engines, dynamic UI generation, production deployment strategies
 - **Prerequisites**: TypeScript, React/Next.js, PostgreSQL, API design, Docker
 - **Standout Feature**: Complete production-ready codebase with 20+ chapters covering real-time collaboration and advanced database patterns
->>>>>>> origin/add-teable-database-tutorial
 
 ---
 
