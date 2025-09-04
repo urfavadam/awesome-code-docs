@@ -13,6 +13,15 @@ Complete guide to understanding NocoDB's database abstraction architecture and b
 - **Prerequisites**: JavaScript, Node.js, basic database knowledge  
 - **Standout Feature**: Working examples of multi-database connectors and dynamic UI generation
 
+### [Athens Research Knowledge Graph Deep Dive](../tutorials/athens-research-knowledge-graph/)
+**🏗️ Architecture | ⚡ Advanced | ⏱️ 8-10 hours**
+
+Complete guide to building knowledge management systems with graph databases, ClojureScript, and Datascript.
+
+- **What You'll Learn**: Graph database patterns, ClojureScript architecture, bi-directional linking, block-based editing, real-time collaboration
+- **Prerequisites**: JavaScript, ClojureScript basics, graph database concepts
+- **Standout Feature**: Working examples of Datascript queries and knowledge graph traversal algorithms
+
 ---
 
 ## What We're Looking For

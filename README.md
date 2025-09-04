@@ -35,6 +35,15 @@ Most documentation tells you **what** to do. The docs here teach you **how** and
 *Prerequisites:* JavaScript, basic database knowledge  
 *Format:* Architecture deep-dive with working code examples
 
+### 🧠 Knowledge Management & Graph Databases
+
+**[Athens Research Knowledge Graph Deep Dive](tutorials/athens-research-knowledge-graph/)** - *8-10 hours*
+> Understanding Athens Research's architecture - how to build a Roam-like knowledge management system with ClojureScript and graph databases
+
+*What you'll learn:* Graph database patterns, ClojureScript architecture, block-based editing, bi-directional linking, real-time collaboration  
+*Prerequisites:* JavaScript, ClojureScript basics, graph database concepts  
+*Format:* Architecture deep-dive with Datascript examples and Re-frame patterns
+
 ---
 
 ## More Coming Soon

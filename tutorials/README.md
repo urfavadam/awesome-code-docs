@@ -10,8 +10,9 @@ In-depth tutorials that teach how complex systems work through hands-on examples
 ### 🌐 Web Frameworks  
 - *Coming Soon* - React Fiber internals, Vue reactivity system
 
-### 🗄️ Databases
+### 🗄️ Databases & Knowledge Management
 - **[NocoDB Database Platform Deep Dive](nocodb-database-platform/)** - Building Airtable-like interfaces for databases
+- **[Athens Research Knowledge Graph Deep Dive](athens-research-knowledge-graph/)** - Building Roam-like knowledge systems with ClojureScript
 - *Coming Soon* - PostgreSQL query planner, Redis architecture  
 
 ### ⚙️ Systems Programming
