@@ -2,6 +2,19 @@
 
 > Documentation that explains how data systems store, query, and scale information
 
+## Featured Documentation
+
+### [NocoDB Database Platform Deep Dive](../tutorials/nocodb-database-platform/)
+**🏗️ Architecture | 🔥 Intermediate | ⏱️ 6-8 hours**
+
+Complete guide to understanding NocoDB's database abstraction architecture and building Airtable-like interfaces.
+
+- **What You'll Learn**: Database abstraction patterns, API auto-generation, Vue.js data components, real-time collaboration
+- **Prerequisites**: JavaScript, Node.js, basic database knowledge  
+- **Standout Feature**: Working examples of multi-database connectors and dynamic UI generation
+
+---
+
 ## What We're Looking For
 
 Documentation that teaches:
