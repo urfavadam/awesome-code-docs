@@ -2,6 +2,17 @@
 
 > Documentation that explains how data systems store, query, and scale information
 
+### [Athens Research Knowledge Graph Deep Dive](../tutorials/athens-research-knowledge-graph/)
+**🏗️ Architecture | ⚡ Advanced | ⏱️ 8-10 hours**
+
+Complete guide to building knowledge management systems with graph databases, ClojureScript, and Datascript.
+
+- **What You'll Learn**: Graph database patterns, ClojureScript architecture, bi-directional linking, block-based editing, real-time collaboration
+- **Prerequisites**: JavaScript, ClojureScript basics, graph database concepts
+- **Standout Feature**: Working examples of Datascript queries and knowledge graph traversal algorithms
+
+---
+
 ## What We're Looking For
 
 Documentation that teaches:

@@ -10,7 +10,8 @@ In-depth tutorials that teach how complex systems work through hands-on examples
 ### 🌐 Web Frameworks  
 - *Coming Soon* - React Fiber internals, Vue reactivity system
 
-### 🗄️ Databases
+### 🗄️ Databases & Knowledge Management
+- **[Athens Research Knowledge Graph Deep Dive](athens-research-knowledge-graph/)** - Building Roam-like knowledge systems with ClojureScript
 - *Coming Soon* - PostgreSQL query planner, Redis architecture  
 
 ### ⚙️ Systems Programming
