@@ -20,6 +20,7 @@ In-depth tutorials that teach how complex systems work through hands-on examples
 - **[NocoDB Database Platform Deep Dive](nocodb-database-platform/)** - Building Airtable-like interfaces for databases
 - **[Athens Research Knowledge Graph Deep Dive](athens-research-knowledge-graph/)** - Building Roam-like knowledge systems with ClojureScript
 - **[Teable Database Platform Deep Dive](teable-database-platform/)** - Complete multi-dimensional database platform with real-time collaboration
+- **[Logseq Knowledge Management Platform Deep Dive](logseq-knowledge-management/)** - Master privacy-first, local-first knowledge management with ClojureScript
 - *Coming Soon* - PostgreSQL query planner, Redis architecture  
 
 ### ⚙️ Systems Programming

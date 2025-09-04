@@ -31,6 +31,15 @@ Comprehensive guide to building multi-dimensional database platforms with TypeSc
 - **Prerequisites**: TypeScript, React/Next.js, PostgreSQL, API design, Docker
 - **Standout Feature**: Complete production-ready codebase with 20+ chapters covering real-time collaboration and advanced database patterns
 
+### [Logseq Knowledge Management Platform Deep Dive](../tutorials/logseq-knowledge-management/)
+**🏗️ Architecture | 🔥 Expert | ⏱️ 18-22 hours**
+
+Master Logseq's privacy-first, local-first knowledge management system with ClojureScript and Electron.
+
+- **What You'll Learn**: Block-based knowledge architecture, local-first data synchronization, ClojureScript desktop applications, graph database visualization, plugin architecture
+- **Prerequisites**: ClojureScript, Electron development, Git internals, graph theory basics
+- **Standout Feature**: Complete ClojureScript implementation with desktop deployment, real-time collaboration, and advanced graph algorithms
+
 ---
 
 ## What We're Looking For
