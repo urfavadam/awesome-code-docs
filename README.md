@@ -1,105 +1,154 @@
 # Awesome Code Docs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 📚 Technical documentation that actually teaches you how complex systems work
+<div align="center">
 
-*Quality over quantity - we curate docs that transform understanding, not just list APIs*
+**📚 Learn how complex systems *actually* work through deep-dive tutorials**
 
-## What Makes This Different?
+*Transform your understanding from "what to do" to "how it works" with production-grade code examples*
 
-Most documentation tells you **what** to do. The docs here teach you **how** and **why** systems work.
+[![GitHub stars](https://img.shields.io/github/stars/johnxie/awesome-code-docs?style=social)](https://github.com/johnxie/awesome-code-docs)
+[![Tutorials](https://img.shields.io/badge/tutorials-9-brightgreen.svg)](https://github.com/johnxie/awesome-code-docs/tree/main/tutorials)
+[![Hours of Content](https://img.shields.io/badge/content-100%2B%20hours-blue.svg)](#-complete-tutorial-collection)
+[![Last Updated](https://img.shields.io/github/last-commit/johnxie/awesome-code-docs?label=updated)](https://github.com/johnxie/awesome-code-docs/commits/main)
 
-**Look for:**
-- 🔍 **Real code examples** from production systems  
-- 📊 **Visual explanations** with diagrams and walkthroughs
-- 🎯 **Hands-on tutorials** you can actually follow
-- ⭐ **Beginner-friendly** but still in-depth
-- 🔄 **Recently updated** and actively maintained
-
-## Featured Documentation
-
-### 🤖 AI & ML Platforms
-
-**[Dify Platform Deep Dive](tutorials/dify-platform-deep-dive/)** - *4-6 hours*
-> Complete guide to building LLM applications with Dify, covering workflows, RAG systems, and agents with 100+ code examples
-
-*What you'll learn:* Workflow engines, RAG implementation, agent architecture  
-*Prerequisites:* Basic Python knowledge  
-*Format:* 10-chapter tutorial with diagrams and hands-on examples
-
-### 🤖 LLM Workflow Orchestration
-
-**[Flowise LLM Orchestration Platform Deep Dive](tutorials/flowise-llm-orchestration/)** - *10-12 hours*
-> Master Flowise's visual LLM workflow orchestration - building no-code AI applications with Node.js, React, and advanced prompt engineering
-
-*What you'll learn:* Visual workflow design, LLM integration patterns, advanced prompt engineering, Node.js backend architecture, real-time execution engine  
-*Prerequisites:* Node.js, React, API integration, LLM concepts  
-*Format:* Comprehensive tutorial with workflow examples and production deployment
-
-### 💬 AI Chat Platforms
-
-**[LobeChat AI Platform Deep Dive](tutorials/lobechat-ai-platform/)** - *8-10 hours*
-> Master LobeChat's modern AI chat platform architecture - building scalable conversational AI with Next.js, streaming responses, and advanced UI patterns
-
-*What you'll learn:* Modern AI chat architecture, streaming response handling, Next.js advanced patterns, multi-model integration, advanced UI/UX patterns  
-*Prerequisites:* Next.js, TypeScript, AI APIs, real-time systems  
-*Format:* Production-ready implementation with streaming interfaces
-
-### 🧠 Knowledge Management & Personal Productivity
-
-**[Logseq Knowledge Management Platform Deep Dive](tutorials/logseq-knowledge-management/)** - *18-22 hours*
-> Master the architecture of Logseq's privacy-first, local-first knowledge management system - building block-based note-taking applications with ClojureScript and Electron
-
-*What you'll learn:* Block-based knowledge architecture, local-first data synchronization, ClojureScript desktop applications, graph database visualization, plugin architecture  
-*Prerequisites:* ClojureScript, Electron development, Git internals, graph theory basics  
-*Format:* 20-chapter expert-level tutorial with complete ClojureScript implementation
-
-### 🔧 Developer Tools & Analysis
-
-**[Obsidian Outliner Plugin Architecture Deep Dive](tutorials/obsidian-outliner-plugin/)** - *6-8 hours*
-> Master Obsidian plugin development through the Outliner plugin - advanced text editing, tree manipulation, and plugin architecture patterns
-
-*What you'll learn:* Obsidian plugin architecture, advanced text editing, tree data structures, TypeScript plugin development  
-*Prerequisites:* TypeScript, Obsidian usage, plugin development basics  
-*Format:* Plugin development tutorial with advanced editing patterns
-
-**[Codex Code Analysis Platform Deep Dive](tutorials/codex-analysis-platform/)** - *12-15 hours*
-> Master building sophisticated code analysis platforms - static analysis, AST manipulation, and developer tooling with modern web technologies
-
-*What you'll learn:* Static code analysis, AST processing, Language Server Protocol, code intelligence, visualization systems  
-*Prerequisites:* Compiler theory, TypeScript, language processing, web technologies  
-*Format:* Comprehensive analysis platform with multi-language support
+</div>
 
 ---
 
-## More Coming Soon
+## 🎯 What Makes This Collection Special?
 
-We're actively building this collection! Categories we're working on:
+Unlike typical documentation that shows you *what* to do, our tutorials reveal *how* and *why* complex systems work:
 
-- 🌐 **Web Frameworks** - React internals, Vue architecture, Django deep-dives
-- 🗄️ **Databases** - PostgreSQL internals, Redis architecture, MongoDB clustering  
-- ☁️ **Cloud Native** - Kubernetes operators, service mesh, observability
-- 🔧 **Systems Programming** - Compilers, OS kernels, networking protocols
+| 🔍 **Deep Analysis** | 📊 **Visual Learning** | 🛠️ **Hands-On Practice** | ⭐ **Production Ready** |
+|:---:|:---:|:---:|:---:|
+| Real production codebases | Architecture diagrams | Runnable code examples | Enterprise-grade patterns |
+| Line-by-line explanations | System flow charts | Step-by-step guides | Scalable implementations |
+| Expert-level insights | Interactive visualizations | Practical exercises | Best practices |
 
-**[Browse all tutorials →](tutorials/)**
+## 🚀 Complete Tutorial Collection
 
-## Want to Contribute?
+<details>
+<summary><strong>📊 Quick Overview</strong> - 9 comprehensive tutorials covering 100+ hours of expert-level content</summary>
 
-Found amazing technical documentation? We'd love to include it!
+| **Category** | **Tutorials** | **Total Hours** | **Difficulty** |
+|:-------------|:-------------:|:---------------:|:--------------:|
+| 🤖 **AI & ML Platforms** | 4 tutorials | 42-50 hours | Beginner → Expert |
+| 🔧 **Developer Tools** | 2 tutorials | 18-23 hours | Intermediate → Expert |
+| 🗄️ **Database Systems** | 3 tutorials | 26-33 hours | Intermediate → Expert |
+| **Total Collection** | **9 tutorials** | **86-106 hours** | **All levels** |
 
-**What we look for:**
-- Transforms understanding (not just API docs)
-- Includes runnable examples
-- Has clear learning objectives
-- Uses visual aids effectively
+</details>
 
-**[→ Suggest documentation](https://github.com/johnxie/awesome-code-docs/issues/new?template=new-entry.md)**
+### 🤖 AI & Machine Learning Platforms
 
-## Join the Community
+| Tutorial | Duration | Level | Key Technologies | What You'll Master |
+|:---------|:--------:|:-----:|:------------------|:-------------------|
+| **[Dify Platform](tutorials/dify-platform-deep-dive/)** | 4-6 hrs | 🟢 Beginner | Python, Flask, Docker | LLM workflows, RAG systems, agent frameworks |
+| **[Flowise Orchestration](tutorials/flowise-llm-orchestration/)** | 10-12 hrs | 🟡 Intermediate | Node.js, React, LLMs | Visual workflow design, prompt engineering |
+| **[LobeChat Platform](tutorials/lobechat-ai-platform/)** | 8-10 hrs | 🟡 Intermediate | Next.js, TypeScript | Modern AI chat, streaming responses |
+| **[Logseq Knowledge](tutorials/logseq-knowledge-management/)** | 18-22 hrs | 🔴 Expert | ClojureScript, Electron | Local-first apps, graph databases |
 
-- ⭐ **Star this repo** to stay updated
-- 💬 **[Join discussions](https://github.com/johnxie/awesome-code-docs/discussions)** about great docs you've found
-- 🐦 **Follow [@johnxie](https://twitter.com/johnxie)** for curated finds
+### 🔧 Developer Tools & Code Analysis
+
+| Tutorial | Duration | Level | Key Technologies | What You'll Master |
+|:---------|:--------:|:-----:|:------------------|:-------------------|
+| **[Obsidian Plugin](tutorials/obsidian-outliner-plugin/)** | 6-8 hrs | 🟡 Intermediate | TypeScript, Plugin APIs | Advanced text editing, tree structures |
+| **[Codex Analysis](tutorials/codex-analysis-platform/)** | 12-15 hrs | 🔴 Expert | TypeScript, AST, LSP | Static analysis, code intelligence |
+
+### 🗄️ Database & Storage Systems
+
+| Tutorial | Duration | Level | Key Technologies | What You'll Master |
+|:---------|:--------:|:-----:|:------------------|:-------------------|
+| **[NocoDB Platform](tutorials/nocodb-database-platform/)** | 6-8 hrs | 🟡 Intermediate | Node.js, Vue.js | Database abstraction, API generation |
+| **[Athens Research](tutorials/athens-research-knowledge-graph/)** | 8-10 hrs | 🔴 Expert | ClojureScript, Datascript | Graph databases, bi-directional linking |
+| **[Teable Platform](tutorials/teable-database-platform/)** | 12-15 hrs | 🔴 Expert | TypeScript, PostgreSQL | Multi-dimensional data, real-time collaboration |
 
 ---
 
-*Building the best collection of educational technical documentation on the web* 🚀
+## 🎯 Getting Started
+
+### 🆕 New to System Architecture?
+Start with our beginner-friendly tutorials and work your way up:
+
+1. **[Dify Platform](tutorials/dify-platform-deep-dive/)** (4-6 hrs) - Learn LLM application patterns
+2. **[NocoDB Platform](tutorials/nocodb-database-platform/)** (6-8 hrs) - Database abstraction concepts  
+3. **[Obsidian Plugin](tutorials/obsidian-outliner-plugin/)** (6-8 hrs) - Plugin architecture basics
+
+### 🎨 Frontend Developer Path
+Master modern frontend architectures:
+
+1. **[LobeChat Platform](tutorials/lobechat-ai-platform/)** - Next.js + AI integration
+2. **[Flowise Orchestration](tutorials/flowise-llm-orchestration/)** - React + Node.js workflows
+3. **[Teable Platform](tutorials/teable-database-platform/)** - Advanced React patterns
+
+### 🗄️ Backend Developer Path  
+Deep-dive into data and system design:
+
+1. **[Athens Research](tutorials/athens-research-knowledge-graph/)** - Graph databases
+2. **[Teable Platform](tutorials/teable-database-platform/)** - Multi-dimensional data
+3. **[Codex Analysis](tutorials/codex-analysis-platform/)** - Language processing
+
+### 🔥 Expert Challenge Path
+For experienced developers seeking mastery:
+
+1. **[Logseq Knowledge](tutorials/logseq-knowledge-management/)** (18-22 hrs) - Local-first architecture
+2. **[Codex Analysis](tutorials/codex-analysis-platform/)** (12-15 hrs) - Compiler theory application
+3. **[Teable Platform](tutorials/teable-database-platform/)** (12-15 hrs) - Production scaling patterns
+
+---
+
+## 🌟 Coming Soon
+
+We're actively building this collection! Next tutorials in development:
+
+| Category | Planned Tutorials | ETA |
+|:---------|:------------------|:----|
+| 🌐 **Web Frameworks** | React Fiber internals, Vue 3 reactivity | Q1 2025 |
+| 🗄️ **Database Internals** | PostgreSQL planner, Redis architecture | Q1 2025 |
+| ☁️ **Cloud Native** | Kubernetes operators, Service mesh | Q2 2025 |
+| 🔧 **Systems Programming** | Rust compiler, Linux kernel modules | Q2 2025 |
+
+**[📋 Browse all tutorials →](tutorials/)**
+
+---
+
+## 🤝 Contributing & Community
+
+### 💡 Suggest New Tutorials
+
+Found amazing technical documentation that transforms understanding? We'd love to include it!
+
+<details>
+<summary><strong>What makes great educational documentation?</strong></summary>
+
+✅ **Transforms Understanding** - Goes beyond "what" to explain "how" and "why"  
+✅ **Production Focus** - Real codebases, not toy examples  
+✅ **Visual Learning** - Diagrams, flowcharts, interactive elements  
+✅ **Hands-On Practice** - Runnable code you can experiment with  
+✅ **Clear Progression** - Logical learning path from basics to advanced  
+✅ **Current & Maintained** - Up-to-date with modern practices  
+
+</details>
+
+**[📝 Suggest documentation](https://github.com/johnxie/awesome-code-docs/issues/new?template=new-entry.md)**
+
+### 🌍 Join Our Community
+
+| Platform | Purpose | Link |
+|:---------|:--------|:-----|
+| ⭐ **GitHub** | Star for updates, contribute tutorials | [Star this repo](https://github.com/johnxie/awesome-code-docs) |
+| 💬 **Discussions** | Share insights, ask questions | [Join discussions](https://github.com/johnxie/awesome-code-docs/discussions) |
+| 🐦 **Twitter** | Latest finds, community highlights | [Follow @johnxie](https://twitter.com/johnxie) |
+| 📧 **Newsletter** | Monthly curated technical content | [Subscribe](https://github.com/johnxie/awesome-code-docs/discussions) |
+
+---
+
+<div align="center">
+
+**🎯 Mission: Transform complex systems into accessible learning experiences**
+
+*Quality over quantity • Real-world focus • Community-driven • Always learning*
+
+**[⭐ Star this repo](https://github.com/johnxie/awesome-code-docs) • [🚀 Browse tutorials](tutorials/) • [💬 Join discussions](https://github.com/johnxie/awesome-code-docs/discussions)**
+
+</div>
