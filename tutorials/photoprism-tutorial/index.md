@@ -1,0 +1,120 @@
+---
+title: "PhotoPrism Tutorial: AI-Powered Photos App"
+description: "Complete beginner's guide to PhotoPrism, the AI-powered photos app for the decentralized web with automatic tagging, object recognition, and facial recognition."
+category: "ai-ml-platforms"
+tags: ["photography", "ai", "machine-learning", "tensorflow", "computer-vision", "self-hosted", "privacy", "decentralized", "facial-recognition", "object-detection"]
+difficulty: "intermediate"
+author: "AI Codebase Knowledge Builder"
+---
+
+# PhotoPrism Tutorial: AI-Powered Photos App
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/photoprism/photoprism/develop/assets/logo.svg" alt="PhotoPrism Logo" width="200"/>
+</p>
+
+<p align="center">
+  <strong>🤖 AI-powered photos app for the decentralized web with automatic tagging and facial recognition</strong>
+</p>
+
+---
+
+## 🎯 What You'll Learn
+
+This comprehensive tutorial will guide you through PhotoPrism, a powerful AI-powered photo management application that brings professional photo organization to your personal server:
+
+- **AI-Powered Organization**: Automatic object detection, facial recognition, and scene classification
+- **Privacy-First Design**: Self-hosted solution with complete control over your data
+- **Advanced Search**: Natural language search through your photo collection
+- **Multi-Format Support**: Handles RAW files, videos, and traditional photo formats
+- **Web-Based Interface**: Access your photos from any device with a modern web browser
+- **API Integration**: RESTful API for third-party integrations and automation
+
+## 📚 Tutorial Chapters
+
+1. **[Getting Started with PhotoPrism](01-getting-started.md)** - Installation, setup, and first photo library
+2. **[AI Features & Configuration](02-ai-features-configuration.md)** - TensorFlow integration and AI model setup
+3. **[Photo Management](03-photo-management.md)** - Importing, organizing, and managing your photo collection
+4. **[Search & Discovery](04-search-discovery.md)** - Advanced search features and natural language queries
+5. **[Facial Recognition](05-facial-recognition.md)** - Setting up and using facial recognition features
+6. **[API Integration](06-api-integration.md)** - REST API usage and automation
+7. **[Backup & Migration](07-backup-migration.md)** - Data backup strategies and migration
+8. **[Production Deployment](08-production-deployment.md)** - Scaling and production setup
+
+## 🚀 Quick Start
+
+```bash
+# Run PhotoPrism with Docker
+docker run -d \
+  --name photoprism \
+  -p 2342:2342 \
+  -e PHOTOPRISM_ADMIN_PASSWORD="your-admin-password" \
+  -v /path/to/photos:/photoprism/photos \
+  -v /path/to/storage:/photoprism/storage \
+  photoprism/photoprism:latest
+
+# Access at http://localhost:2342
+```
+
+## 🏗️ Architecture Overview
+
+```mermaid
+graph TB
+    A[Web Interface] --> B[PhotoPrism API]
+    B --> C[Database]
+    B --> D[File Storage]
+    B --> E[AI Engine]
+    E --> F[TensorFlow Models]
+    E --> G[Object Detection]
+    E --> H[Facial Recognition]
+    I[Import Service] --> B
+    J[Search Engine] --> B
+```
+
+## 🎯 Use Cases
+
+- **Personal Photo Library**: Self-hosted alternative to Google Photos
+- **Family Photo Sharing**: Private family photo sharing without cloud services
+- **Professional Photography**: Portfolio management and client proofing
+- **Research & Documentation**: Visual documentation with AI-powered search
+- **Archival Collections**: Museum and archive photo management
+- **Security & Surveillance**: Privacy-focused surveillance photo management
+
+## 📋 Prerequisites
+
+- Basic understanding of Docker and containerization
+- Familiarity with web interfaces and basic networking
+- Understanding of photo file formats and metadata
+- Basic knowledge of AI/ML concepts (helpful but not required)
+- Access to a server or computer with sufficient storage space
+
+## 🕐 Time Investment
+
+- **Complete Tutorial**: 4-6 hours
+- **Basic Setup**: 30-45 minutes
+- **AI Configuration**: 1-2 hours
+- **Advanced Features**: 2-3 hours
+
+## 🎯 Learning Outcomes
+
+By the end of this tutorial, you'll be able to:
+
+- Set up and configure PhotoPrism on various platforms
+- Leverage AI features for automatic photo organization
+- Implement advanced search and discovery features
+- Configure facial recognition for person identification
+- Use the REST API for automation and integration
+- Manage backups and ensure data persistence
+- Deploy PhotoPrism in production environments
+
+## 🔗 Resources
+
+- **Official Documentation**: [docs.photoprism.app](https://docs.photoprism.app)
+- **GitHub Repository**: [github.com/photoprism/photoprism](https://github.com/photoprism/photoprism)
+- **Demo Instance**: [demo.photoprism.app](https://demo.photoprism.app)
+- **API Documentation**: [docs.photoprism.app/developer-guide/api](https://docs.photoprism.app/developer-guide/api/)
+- **Community Forum**: [forum.photoprism.app](https://forum.photoprism.app)
+
+---
+
+*Generated by [AI Codebase Knowledge Builder](https://github.com/johnxie/awesome-code-docs)*
