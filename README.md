@@ -7,8 +7,8 @@
 *Transform your understanding from "what to do" to "how it works" with production-grade code examples*
 
 [![GitHub stars](https://img.shields.io/github/stars/johnxie/awesome-code-docs?style=social)](https://github.com/johnxie/awesome-code-docs)
-[![Tutorials](https://img.shields.io/badge/tutorials-27-brightgreen.svg)](https://github.com/johnxie/awesome-code-docs/tree/main/tutorials)
-[![Hours of Content](https://img.shields.io/badge/content-270%2B%20hours-blue.svg)](#-complete-tutorial-collection)
+[![Tutorials](https://img.shields.io/badge/tutorials-30-brightgreen.svg)](https://github.com/johnxie/awesome-code-docs/tree/main/tutorials)
+[![Hours of Content](https://img.shields.io/badge/content-300%2B%20hours-blue.svg)](#-complete-tutorial-collection)
 [![Last Updated](https://img.shields.io/github/last-commit/johnxie/awesome-code-docs?label=updated)](https://github.com/johnxie/awesome-code-docs/commits/main)
 
 </div>
@@ -28,15 +28,15 @@ Unlike typical documentation that shows you *what* to do, our tutorials reveal *
 ## 🚀 Complete Tutorial Collection
 
 <details>
-<summary><strong>📊 Quick Overview</strong> - 27 comprehensive tutorials covering 270+ hours of expert-level content</summary>
+<summary><strong>📊 Quick Overview</strong> - 30 comprehensive tutorials covering 300+ hours of expert-level content</summary>
 
 | **Category** | **Tutorials** | **Total Hours** | **Difficulty** |
 |:-------------|:-------------:|:---------------:|:--------------:|
-| 🤖 **AI & ML Platforms** | 16 tutorials | 150-190 hours | Beginner → Expert |
-| 🔧 **Developer Tools** | 7 tutorials | 45-55 hours | Beginner → Expert |
+| 🤖 **AI & ML Platforms** | 18 tutorials | 170-210 hours | Beginner → Expert |
+| 🔧 **Developer Tools** | 8 tutorials | 50-60 hours | Beginner → Expert |
 | 🗄️ **Database Systems** | 4 tutorials | 36-45 hours | Intermediate → Expert |
 | 📊 **Analytics & Monitoring** | 2 tutorials | 18-22 hours | Intermediate → Expert |
-| **Total Collection** | **27 tutorials** | **249-312 hours** | **All levels** |
+| **Total Collection** | **30 tutorials** | **274-337 hours** | **All levels** |
 
 </details>
 
@@ -61,6 +61,8 @@ Unlike typical documentation that shows you *what* to do, our tutorials reveal *
 | **[CrewAI Tutorial](tutorials/crewai-tutorial/)** | 12-15 hrs | 🟡 Intermediate | Python, AI Agent Teams, Orchestration | Collaborative AI agent workflows |
 | **[ComfyUI Tutorial](tutorials/comfyui-tutorial/)** | 10-12 hrs | 🟡 Intermediate | Stable Diffusion, Node-based UI, Image Generation | Modular AI art workflows |
 | **[LLaMA-Factory Tutorial](tutorials/llama-factory-tutorial/)** | 12-15 hrs | 🟡 Intermediate | Python, LLM Training, Fine-tuning | Unified framework for LLM development |
+| **[Haystack Tutorial](tutorials/haystack-tutorial/)** | 12-15 hrs | 🟡 Intermediate | Python, NLP, Search Systems, RAG | Intelligent search and question answering |
+| **[SuperAGI Tutorial](tutorials/superagi-tutorial/)** | 10-12 hrs | 🟡 Intermediate | Python, Autonomous Agents, AI Frameworks | Production-ready autonomous AI agents |
 | **[Logseq Knowledge](tutorials/logseq-knowledge-management/)** | 18-22 hrs | 🔴 Expert | ClojureScript, Electron | Local-first apps, graph databases |
 
 ### 🔧 Developer Tools & Code Analysis
@@ -68,6 +70,7 @@ Unlike typical documentation that shows you *what* to do, our tutorials reveal *
 | Tutorial | Duration | Level | Key Technologies | What You'll Master |
 |:---------|:--------:|:-----:|:------------------|:-------------------|
 | **[Claude Task Master](tutorials/claude-task-master-tutorial/)** | 8-10 hrs | 🟡 Intermediate | AI Agents, Task Management, Editor Integration | AI-powered development workflows |
+| **[Continue Tutorial](tutorials/continue-tutorial/)** | 10-12 hrs | 🟡 Intermediate | AI, Code Completion, Development Tools | Open-source AI coding assistant |
 | **[Obsidian Plugin](tutorials/obsidian-outliner-plugin/)** | 6-8 hrs | 🟡 Intermediate | TypeScript, Plugin APIs | Advanced text editing, tree structures |
 | **[Codex Analysis](tutorials/codex-analysis-platform/)** | 12-15 hrs | 🔴 Expert | TypeScript, AST, LSP | Static analysis, code intelligence |
 | **[Whisper.cpp Tutorial](tutorials/whisper-cpp-tutorial/)** | 10-12 hrs | 🟡 Intermediate | C++, Audio Processing, ML | Speech recognition, audio processing, edge ML |
@@ -137,7 +140,7 @@ We've just completed a massive expansion adding **6 new comprehensive tutorials*
 | 🔧 **Systems Programming** | Rust compiler, Linux kernel modules | Q2 2025 |
 | 🤖 **AI Tools** | More LLM frameworks and AI development tools | Q1 2025 |
 
-**🎉 Just Added:** Claude Task Master, ComfyUI, Supabase, ClickHouse, LLaMA-Factory, PostHog
+**🎉 Just Added:** Claude Task Master, ComfyUI, Supabase, ClickHouse, LLaMA-Factory, PostHog, Haystack, SuperAGI, Continue
 
 **[📋 Browse all tutorials →](tutorials/)**
 
